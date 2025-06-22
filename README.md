@@ -1,6 +1,3 @@
-# Farming-assistant
- 
-
 # 🌾 Farming Assistant
 
 **Farming Assistant** is a comprehensive web-based agricultural support system that bridges the gap between farmers, customers, and agricultural experts. The platform empowers farmers by offering an online marketplace, access to expert advice, blog sharing, and agricultural news while ensuring transparency and digital growth in rural farming.

@@ -96,31 +96,44 @@ This system addresses core issues in the rural agricultural supply chain such as
 
 ## 📸 Screenshots
 
-
-![Dashboard](./src/assets/ProjectsImage/student_dashboard.png)  
-*Student Dashboard*
-
-![Course Player](./src/assets/ProjectsImage/course.png)  
-*Interactive Video Player with Quiz System*
-
-![Instructor Panel](./src/assets/ProjectsImage/Course_List.png)  
-*Course List*
-
-![Instructor Panel](./src/assets/ProjectsImage/Student%20profile.png)  
-*Student Progress Overview*
-
-![Instructor Panel](./src/assets/ProjectsImage/Home_Page.png)  
+![Home Page](./assets/images/project/Home.png)  
 *Home Page*
 
-![Instructor Panel](./src/assets/ProjectsImage/Blogs.png)  
+![Home Page](./assets/images/project/Home2.png)  
+*Home Page*
+
+![Product Details](./assets/images/project/Product_details.png)  
+*Product Details*
+
+![Category Details](./assets/images/project/category_details.png)  
+*Category Details*
+
+![Order List](./assets/images/project/Orders_List.png)  
+*Orders List*
+
+![Market Price](./assets/images/project/market_price.png)  
+*Market Price*
+
+![Blog Page](./assets/images/project/blogs.png)  
 *Blog Page*
 
-![Instructor Panel](./src/assets/ProjectsImage/signup.png)  
+![Problems](./assets/images/project/Problems.png)  
+*Problems Post*
+
+![Seek Helps](./assets/images/project/seek_helps.png)  
+*Seek Helps*
+
+![Solution Post](./assets/images/project/solutions.png)  
+*Solution Post*
+
+![Admin Panel](./assets/images/project/Admin.png)  
+*Admin Panel*
+
+![Sign Up](./assets/images/project/signup.png)  
 *Sign Up Page*
 
-![Instructor Panel](./src/assets/ProjectsImage/Login.png)  
+![Login](./assets/images/project/Login.png)  
 *Login Page*
-
 ---
 
 ## 🧑‍🏫 Supervisor

@@ -84,13 +84,13 @@ This system addresses core issues in the rural agricultural supply chain such as
 ## 📄 Project Documentation
 
 - 📘 **SRS (Software Requirements Specification):**  
-  [Click to view SRS](https://drive.google.com/file/d/1wupgRyjuSgyax6xJmkJNP0n52c_OdNIW/view?usp=sharing)
+  [Click to view SRS](https://drive.google.com/file/d/1L9fzN2hhYmqsaD-uP8WLYfxwCCqvSE6O/view?usp=sharing)
 
 - 📑 **Project Report:**  
-  [Click to view Project Report](https://drive.google.com/file/d/1wsW_v7lIUElye37hzDu9zdzP22kr8xqS/view?usp=sharing)
+  [Click to view Project Report](https://drive.google.com/file/d/1EWvM-rMEWg9jnjrSJWgNWgOfuUD7C8Z7/view?usp=sharing)
 
-- 📊 **Requirement Size & Function Point Documentation:**  
-  [Click to view FP & Size Document](https://drive.google.com/file/d/1-8wcajAGnPZetEckW-ke-TouzoI80b3Q/view?usp=sharing)
+- 📊 **Software Testing Life Cycle:**  
+  [Click to view Testing Report](https://drive.google.com/file/d/1NFxJFkDEyXENPkXWN-Diun9_XVdvGhgp/view?usp=sharing)
 
 ---
 
@@ -138,27 +138,28 @@ This system addresses core issues in the rural agricultural supply chain such as
 
 ## 🧑‍🏫 Supervisor
 
-**Name:** Ms. Tasniya Ahmed  
+**Name:** Tasniya Ahmed  
 **Position:** Assistant Professor, Institute of Information Technology  
 **Institution:** Noakhali Science and Technology University (NSTU)  
 📧 [tasniya.iit@nstu.edu.bd](mailto:tasniya.iit@nstu.edu.bd)
 
 ---
 
-## 👨‍💻 Project Members
+## 👨‍💻 Contributors
 
-- **Ishrat Jahan Rintu** — [ishrat2514@student.nstu.edu.bd](mailto:ishrat2514@student.nstu.edu.bd)  
-- **Anupa Das Shormi** — [anupa2514@student.nstu.edu.bd](mailto:anupa2514@student.nstu.edu.bd)  
-- **Md. Alamgir Hossain** — [alamgir2514@student.nstu.edu.bd](mailto:alamgir2514@student.nstu.edu.bd)
+- **Md. Alamgir Hossain** 
+- **Ishrat Jahan Rintu**  
+- **Anupa Das Shormi** 
+
 
 ---
 
 ## 📬 Contact
 
 **Author for Queries:** Md. Alamgir Hossain  
-📧 Email: [alamgir2514@student.nstu.edu.bd](mailto:alamgir2514@student.nstu.edu.bd)  
-🔗 GitHub: [@your-username](https://github.com/your-username)  
-🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+📧 Email: [mahalamgir1213@gmail.com](mailto:mahalamgir1213@gmail.com)  
+🔗 GitHub: [Alamgir2-2](https://github.com/Alamgir2-2)  
+🔗 LinkedIn: [alamgir22](https://www.linkedin.com/in/alamgir22/)
 
 ---
 
